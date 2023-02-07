@@ -2,7 +2,7 @@
 
 <!--
 **ZHCAIHUA/ZHCAIHUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://github.com/ZHCAIHUA/ZHCAIHUA/blob/main/2018.jpeg">
+<img src="https://raw.githubusercontent.com/ZHCAIHUA/ZHCAIHUA/main/2018.png">
 
 Here are some ideas to get you started:
 
