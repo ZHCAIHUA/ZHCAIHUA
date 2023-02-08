@@ -1,9 +1,12 @@
 # Hi there 👋
-#### I‘m <b>Caihua Zhu</b>.
+#### I‘m Caihua Zhu.
 
 <!--
 **ZHCAIHUA/ZHCAIHUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://raw.githubusercontent.com/ZHCAIHUA/ZHCAIHUA/main/2018.png">
+
+<img src="https://raw.githubusercontent.com/ZHCAIHUA/ZHCAIHUA/main/%E9%9D%A2%E6%80%A7%E5%90%91%E6%97%A5%E8%91%B5.png">Find me on:
+
+<img src="https://raw.githubusercontent.com/ZHCAIHUA/ZHCAIHUA/main/tiktok.jpg">
 
 Here are some ideas to get you started:
 
