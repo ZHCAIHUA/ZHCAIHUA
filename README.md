@@ -1,4 +1,4 @@
-### Hi there 👋Hi,everyone,I‘m Caihua Zhu.
+# Hi there 👋I‘m Caihua Zhu.
 
 <!--
 **ZHCAIHUA/ZHCAIHUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
